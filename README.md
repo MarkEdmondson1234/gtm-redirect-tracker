@@ -38,5 +38,5 @@ In the above screenshot calls to `https://gtm2.markedmondson.me` + ... =
 
 This client has also been attached to a tag that reads the GTM event and sends it to BigQuery:
 
-[](redirect-gtmss-tag-example.png)
-[](redirect-gtmss-trigger-example.png)
+![](redirect-gtmss-tag-example.png)
+![](redirect-gtmss-trigger-example.png)
