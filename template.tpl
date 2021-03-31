@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Redirect Link Tracker",
-  "categories": ["ANALYTICS","UTILITY","CONVERSIONS"]
+  "categories": ["ANALYTICS","UTILITY","CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
