@@ -15,5 +15,5 @@
 homepage: "https://github.com/MarkEdmondson1234/gtm-redirect-tracker"
 documentation: "https://github.com/MarkEdmondson1234/gtm-redirect-tracker"
 versions:
-  - sha: aed89abbb9cdcac555a5e657b3cfac257811df5b
+  - sha: 76996f7652275e4033c6f1f5df1aa0216090e176
     changeNotes: Initial Version
