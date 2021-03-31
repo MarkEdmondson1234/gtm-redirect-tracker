@@ -36,7 +36,7 @@ In the above screenshot calls to `https://gtm2.markedmondson.me` + ... =
 * `/edmon2` and `/edmon3` redirects without UTM parameters
 * `/redirect-gtm` redirects to this GitHub container
 
-This client has also been attached to a tag that reads the GTM event and sends it to BigQuery:
+This client has also been attached to the [Edmonlytica Server Side Tag](https://github.com/MarkEdmondson1234/edmonlytica-server-side-tag) that reads the GTM event and sends it to BigQuery:
 
 ![](redirect-gtmss-tag-example.png)
 ![](redirect-gtmss-trigger-example.png)
