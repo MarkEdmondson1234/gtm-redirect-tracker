@@ -75,7 +75,7 @@ ___TEMPLATE_PARAMETERS___
           ],
           "help": "This is the final URL destination on your website"
         },
-        "isUnique": true
+        "isUnique": false
       },
       {
         "param": {
@@ -414,6 +414,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 31/03/2021, 17.05.24
+Created on 31/03/2021, 17.20.27
 
 
